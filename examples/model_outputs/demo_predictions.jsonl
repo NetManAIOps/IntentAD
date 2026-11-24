@@ -1,0 +1,1 @@
+{"input": "Metric Name: demo##0\nSequence Length: 10\n[User Intent]\nDetect all anomalies.", "timeseries": [1, 1, 1, 5, 5, 1, 1, 1, 1, 1], "label": "[(3, 4, 'spike', 4.0)]", "output": "<answer>\n[(3, 4, 'spike', 4.0)]\n</answer>"}

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated data and experiment outputs.
+data/llm_sft/
+data/tsad/generated/
+data/visualizations/
+outputs/
+results/
+plots/
+
+# Local/private inputs. See DATASETS.md.
+data/private/
+data/raw/

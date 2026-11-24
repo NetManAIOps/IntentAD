@@ -1,0 +1,9 @@
+# Optional dependencies only needed if you adapt the scripts to call an LLM
+# provider for prompt/answer rewriting. The public artifact disables such
+# calls by default.
+openai>=1.0
+transformers>=4.40
+vllm>=0.5
+PyYAML>=6.0
+loguru>=0.7
+json-repair>=0.25
